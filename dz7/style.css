@@ -1,0 +1,13 @@
+.riddles-container {
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  
+  .riddle {
+    margin-bottom: 20px;
+  }
+  
+  .answer {
+    display: none;
+  }
+  
